@@ -1,9 +1,9 @@
 {
   "name": "rtl-jquery-mobile",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "main": [
-    "js/rtl.jquery.mobile-1.0.1.js",
-    "/themes/default-rtl/jquery.mobile.css"
+    "js/rtl.jquery.mobile-1.1.0.js",
+    "css/themes/default-rtl/jquery.mobile-1.1.0.css"
   ],
   "dependencies": {
     "jquery": "~1.10.0"
