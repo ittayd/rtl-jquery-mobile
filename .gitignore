@@ -1,0 +1,14 @@
+.settings
+.stage
+coverage
+deps
+dist
+doc
+node_modules
+.classpath
+.project
+target
+tmp
+node_modules
+*.log
+*.log.?
