@@ -1,0 +1,15 @@
+{
+  "name": "rtl-jquery-mobile",
+  "version": "1.0.1",
+  "main": [
+    "js/rtl.jquery.mobile-1.0.1.js",
+    "/themes/default-rtl/jquery.mobile.css"
+  ],
+  "dependencies": {
+    "jquery": "~1.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ouadi/rtl-jquery-mobile.git"
+  }
+}
